@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#ED0677</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#F1F1F1</color>
+    <color name="grey_border">#1F000000</color>
+    <color name="light_magenta">#FDE1EF</color>
+    <color name="pink_menu">#FDE1EF</color>
+    <color name="pink_dark_menu">#FFD5D5</color>
+
+    <!--Button-->
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="button_enabled">#ED0677</color>
+    <color name="button_disabled">#61000000</color>
+    <color name="button_pressed">#61000000</color>
+
+    <!--Login Presentation Color-->
+    <color name="login_instruction">#514346</color>
+    <color name="login_input_hint">#61000000</color>
+    <color name="login_input_border">#1F000000</color>
+    <color name="login_input_solid">#FFFFFFFF</color>
+    <color name="login_input_text">#212121</color>
+    <color name="login_version_text">#99212121</color>
+
+    <!--Profile Presentation Color-->
+    <color name="profile_card_background">#0AED0677</color>
+    <color name="profile_cirle_photo_profile_background">#ED0677</color>
+    <color name="profile_cirle_photo_profile_text">#FFFFFF</color>
+    <color name="profile_key_text">#514346</color>
+    <color name="profile_value_text">#514346</color>
+    <color name="profile_menu_text">#000000</color>
+    <color name="profile_bottom_sheet_title">#000000</color>
+    <color name="profile_bottom_sheet_description">#000000</color>
+    <color name="profile_bottom_sheet_button_background">#000000</color>
+    <color name="profile_bottom_sheet_button_text">#000000</color>
+
+    <!--Snackbar-->
+    <color name="snackbar_green">#148F00</color>
+    <color name="snackbar_red">#FF0000</color>
+    <color name="snackbar_orange">#FF5F1D</color>
+    <color name="snackbar_green_2">#268F00</color>
+    <color name="bg_snackbar_orange_2">#FFDFD2</color>
+    <color name="bg_snackbar_green_2">#DDFFD0</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!--Print-->
+    <color name="comm_color8">#d8d8d8</color>
+    <color name="comm_color2">#ffffff</color>
+    <color name="comm_color3">#333333</color>
+
+    <!--BottomSheet-->
+    <color name="grey_darker">#D9D9D9</color>
+    <color name="yellow_button">#FF9E02</color>
+
+    <!--Csd Label-->
+    <color name="black_label">#201A1B</color>
+    <color name="color_primary_light">#FDE1EF</color>
+
+    <color name="bg_yellow">#FFDFD2</color>
+    <color name="cancel_label">#B00020</color>
+    <!--Service Code-->
+    <color name="color_nd">#548235</color>
+    <color name="color_reg">#E5E5E5</color>
+    <color name="color_sd">#ED0677</color>
+    <color name="gold">#ECA132</color>
+    <color name="light_gold">#FFFCE4</color>
+    <color name="blue">#0F79D2</color>
+    <color name="light_blue">#D1EBFD</color>
+    <color name="gey">#E0E0E0</color>
+    <color name="orange">#ECA132</color>
+</resources>
