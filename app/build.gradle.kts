@@ -11,6 +11,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.baseprojectapplication"
+        targetSdk = 34
         minSdk = 24
         versionCode = 1
         versionName = "1.0.0"
@@ -35,7 +36,7 @@ android {
 
     buildFeatures {
         viewBinding = true
-        buildConfig = false
+        buildConfig = true
     }
 
 
@@ -55,4 +56,6 @@ dependencies {
     kapt(libs.hilt.compiler)
     implementation(libs.androidxWorkRuntimeKtx)
     implementation(libs.navigationHilt)
+
+    implementation(libs.navigationHostFragment)
 }
